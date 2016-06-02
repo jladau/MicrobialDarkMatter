@@ -3,7 +3,7 @@
 #loading local variables
 sDir=$HOME/Documents/Research/Java/Distribution/MicrobialDarkMatter/RandomEnvironmentalSequences
 sOutputPath=$sDir/test/Test.fasta
-sFastaPath=$sDir/test/Bac_uncultured_atmospheric.fasta
+sFastaPath=$sDir/test/Bac_uncultured_atmospheric.aligned.fasta
 iRandomSeed=1234
 
 #running analysis
